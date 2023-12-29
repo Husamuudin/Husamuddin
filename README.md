@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Husamuddin
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning BE
+- 💞️ I’m looking for Internships 
+- 📫 How to reach me from my Linkedin and X(twitter)
